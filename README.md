@@ -1,4 +1,4 @@
-# sample_app
+# sample_ros_app
 
 ## Setup
 
