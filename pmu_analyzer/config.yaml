@@ -1,0 +1,6 @@
+events:
+  - context-switches
+max_logs_num:
+  pmu: 10000
+  elapsed_time: 10000
+log_path: /home/atsushi/sample_ros_app/pmu_analyzer  # Fix me
